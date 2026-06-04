@@ -21,4 +21,6 @@ Output:
 https://github.com/kelvinprabhu07-spec/Ex-8-Prompt-Engineering/blob/main/experiment%208.pdf
 
 Result:
+
+
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
